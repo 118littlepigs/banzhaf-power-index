@@ -1,3 +1,3 @@
 # banzhaf-power-index
 
-notebook for calculating Banzhaf power index. example application to current (2024) Electoral College distribution of voters.
+notebook for calculating banzhaf power index for weighted voter games. sample application to current (2024) electoral college.
